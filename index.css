@@ -1,0 +1,27 @@
+.container {
+    background-color: aqua;
+}
+
+.new-btn{
+    width: 50rem;
+    height: 50rem;
+    position: absolute;
+    top: 27%;
+    left: 40%;
+}
+
+
+.limit-size{
+    width: 20rem;
+}
+
+.program-name{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.subtitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
